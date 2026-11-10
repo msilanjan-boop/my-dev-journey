@@ -7,3 +7,7 @@ Learning Python and Java
 Interested in software development and technology
 
 Goal: Build practical projects and contribute to open source
+
+## Projects
+
+- **HEALTHIFY_IQ:** Planning a consumer-focused platform that helps people understand food and cosmetic product labels, identify potentially harmful ingredients, and make safer purchasing decisions.
