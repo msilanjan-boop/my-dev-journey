@@ -5,3 +5,5 @@ Hello! I'm Silanjan Mukherjee, a B.Tech Computer Science and Engineering student
 Learning Python and Java
 
 Interested in software development and technology
+
+Goal: Build practical projects and contribute to open source
